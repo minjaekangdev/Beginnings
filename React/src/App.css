@@ -1,0 +1,24 @@
+button.link-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  display: inline;
+  /* margin: 0;
+  padding: 0; */
+  text-decoration: none;
+}
+
+.link-button:hover,
+.link-button:focus {
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

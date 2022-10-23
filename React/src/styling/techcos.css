@@ -1,0 +1,11 @@
+.modal-footer {
+  border-radius: 0;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+  margin-left: 0%;
+}
+
+.techco_modal {
+  height: 1000px !important;
+}

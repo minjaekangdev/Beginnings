@@ -1,0 +1,12 @@
+div.pac-container {
+  z-index: 9999 !important;
+}
+div.pac-target-input {
+  z-index: 9999 !important;
+}
+.modal {
+  z-index: 1001 !important;
+}
+.modal-backdrop {
+  z-index: 1000 !important;
+}

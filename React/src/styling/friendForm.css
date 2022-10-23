@@ -1,0 +1,15 @@
+.form-container {
+  margin: 5%;
+  padding: 5%;
+  border: 1px solid lightblue;
+  border-radius: 5%;
+  width: 50%;
+}
+h2 {
+  color: darkolivegreen;
+}
+
+input,
+select {
+  margin-bottom: 2%;
+}
